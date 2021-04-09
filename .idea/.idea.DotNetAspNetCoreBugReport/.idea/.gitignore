@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.DotNetAspNetCoreBugReport.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\GOLIVE-PC1\RiderProjects\DotNetAspNetCoreBugReport\DotNetAspNetCoreBugReport\.idea\.idea.DotNetAspNetCoreBugReport\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
